@@ -20,4 +20,4 @@
  `/home/PASTA_DO_CLIENTE/public_html/db_backup.sh >/dev/null 2>&1`
  
 
-
+###### Qualquer dúvida é só entrar em contato comigo em https://rafaelmarques.me
